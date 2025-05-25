@@ -14,7 +14,7 @@ Aplicación web interactiva desarrollada con **HTML, CSS y JavaScript** que repr
 ## 🌐 Ver en línea
 
 Puedes acceder a la aplicación desde el siguiente enlace:  
-👉 [https://TU-URL-AQUÍ.com](https://gutierrezcesar.github.io/Tecla-Musical-Web/)
+👉 [https://TU-URL-AQUÍ.com](https://tecla-musical-web.vercel.app/)
 
 ## 🛠️ Tecnologías usadas
 
